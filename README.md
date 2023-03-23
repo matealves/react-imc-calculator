@@ -12,7 +12,7 @@
 Calcule facilmente o seu Índice de Massa Corporal (IMC), com essa página desenvolvida em *React*. Foi adicionado interações de acordo com o resultado, e **é exibido como é classificado o nível do IMC**, de acordo com o peso e altura do usuário.
 <br>
 
-### [Testar / preview](https://matealves.github.io/react-imc-calculator/) <br><br>
+<!-- ### [Testar / preview](https://matealves.github.io/react-imc-calculator/) <br><br> -->
 
 <p id="start"></p>
 
