@@ -18,11 +18,11 @@ Calcule facilmente o seu Índice de Massa Corporal (IMC), com essa página desen
 
 ### Instalação:
 
-- `npm install`
+`npm install`
 
 ### Para rodar:
 
-- `npm run dev`
+`npm run dev`
 
 <br>
 <br>
