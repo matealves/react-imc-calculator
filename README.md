@@ -1,4 +1,3 @@
-
 # Calcular IMC
 
 ### Projeto desenvolvido para estudos de React
@@ -6,13 +5,14 @@
 [• Como rodar o projeto](#start)<br>
 [• Skills utilizadas](#leng)<br>
 [• Contato](#contato)<br>
-<br> 
-
-# Visão geral
-Calcule facilmente o seu Índice de Massa Corporal (IMC), com essa página desenvolvida em *React* e *TypeScript*. Foi adicionado interações de acordo com o resultado, e **é exibido como é classificado o nível do IMC**, de acordo com o peso e altura do usuário.
 <br>
 
-<!-- ### [Testar / preview](https://matealves.github.io/react-imc-calculator/) <br><br> -->
+# Visão geral
+
+Calcule facilmente o seu Índice de Massa Corporal (IMC), com essa página desenvolvida em _React_ e _TypeScript_. Foi adicionado interações de acordo com o resultado, e **é exibido como é classificado o nível do IMC**, de acordo com o peso e altura do usuário.
+<br>
+
+### [Testar / preview](https://matealves.github.io/react-imc-calculator/dist/) <br><br>
 
 <p id="start"></p>
 
@@ -22,7 +22,7 @@ Calcule facilmente o seu Índice de Massa Corporal (IMC), com essa página desen
 
 ### Para rodar:
 
-- `npm start`
+- `npm run dev`
 
 <br>
 <br>
@@ -30,6 +30,7 @@ Calcule facilmente o seu Índice de Massa Corporal (IMC), com essa página desen
 <p id="leng"></p>
 
 # Skills utilizadas
+
 <p>
  <!-- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
   <!-- <img align="center" alt="Mateus-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> -->
@@ -40,7 +41,6 @@ Calcule facilmente o seu Índice de Massa Corporal (IMC), com essa página desen
    <img align="center" alt="CSS" height="30" title="CSS 3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </p>
 <br>
-
 
 <p id="contato"></p>
 
